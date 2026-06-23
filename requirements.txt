@@ -2,3 +2,4 @@ jupyterlab
 pandas
 numpy
 matplotlib
+git+https://gitlab.bib-bvb.de/folio-public/okapiclient.git
